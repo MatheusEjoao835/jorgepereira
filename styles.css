@@ -1,0 +1,36 @@
+body{
+    background-color: #0d71c1;
+    color:bisque;
+    margin: 0px;
+    padding: 0px;
+    font-family:"Roboto", sans-serif;
+}
+.cabeçalho{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+div{
+    display:block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size:20px;
+    margin-left: 80px;
+
+}
+h5, h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h3{
+    margin:0px;
+    margin-left: 15px;
+    color:blueviolet;
+}
+ p{
+    margin-left: 15px;
+    
+}
+.sumario-section{
+    background-color: blue;
+}
